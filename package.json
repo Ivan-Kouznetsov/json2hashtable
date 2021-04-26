@@ -1,0 +1,29 @@
+{
+  "name": "json2hashtable",
+  "version": "0.0.1",
+  "description": "A library to create hash tables from non-hash table objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ivan-Kouznetsov/json2hashtable.git"
+  },
+  "keywords": [
+    "json",
+    "hash",
+    "table",
+    "library"
+  ],
+  "author": "Ivan Kouznetsov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ivan-Kouznetsov/json2hashtable/issues"
+  },
+  "homepage": "https://github.com/Ivan-Kouznetsov/json2hashtable#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.22",
+    "jest": "^26.6.3"
+  }
+}
